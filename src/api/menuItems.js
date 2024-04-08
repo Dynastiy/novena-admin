@@ -1,12 +1,12 @@
 const items = [
-  {
-    label: 'dashboard',
-    href: '/dashboard',
-    icon: 'mage:dashboard-2',
-    hasChildren: false,
-    parent: 'dashboard',
-    isLink: true
-  },
+  // {
+  //   label: 'dashboard',
+  //   href: '/dashboard',
+  //   icon: 'mage:dashboard-2',
+  //   hasChildren: false,
+  //   parent: 'dashboard',
+  //   isLink: true
+  // },
 
   // {
   //   label: 'monitors',
